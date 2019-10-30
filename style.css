@@ -1,0 +1,8 @@
+* {box-sizing: border-box;}
+ul {list-style-type: none;}
+ body {
+   font-family: Verdana, sans-serif;
+   background-image:;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
